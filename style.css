@@ -1,0 +1,54 @@
+* {
+	box-sizing: border-box;
+	padding: 0px;
+	margin: 0px;
+    font-family: 'Roboto Mono', monospace;
+	
+}
+
+
+
+.hide {
+	display: none;
+}
+
+.puppy {
+	margin-top: 300px;
+	width: 600px;
+}
+
+.one {
+	height: auto;
+	width: 400px;
+	
+}
+
+button {
+	width: 100px;
+	height: 30px;
+    font-size: 16px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+    padding-top: 50px;
+}
+
+.doggos {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 50px;
+}
+
+.window {
+	height: 600px;
+	width: 500px;
+}
+
+p {
+    padding:10px;
+    font-size: 40px;
+}
